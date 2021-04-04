@@ -2,7 +2,7 @@
 Tower Defense game
 
 Thank you for the opportunity i had a lot of fun working on this project.
-I missed some of the things to create (felt bad this weekened).
+I missed some of the things (i felt bad this weekened).
 
 1) selling a object.
 2) Dynamic waves, and not static.
