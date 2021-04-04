@@ -7,4 +7,4 @@ I missed some of the things (felt bad this weekend).
 1) Selling a object.
 2) Dynamic waves, and not static.
 
-If you would like i will be more then happy to complete this project, with all the small details that i missed from the document.
+If you would like, I will be more than happy to complete this project, with all the small details that I missed from the document.
