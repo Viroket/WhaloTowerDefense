@@ -2968,8 +2968,43 @@ MonoBehaviour:
       type: 3}
     enemyAir: {fileID: 4140827657010545531, guid: 2cdc1fd0dd6713347be8db35aab8992a,
       type: 3}
-    countGround: 16
-    countAir: 3
+    countGround: 24
+    countAir: 6
+    rate: 0
+  - enemyGround: {fileID: 2266037048206090461, guid: f4c220b4d31dd474c9fcf4045c962a48,
+      type: 3}
+    enemyAir: {fileID: 4140827657010545531, guid: 2cdc1fd0dd6713347be8db35aab8992a,
+      type: 3}
+    countGround: 32
+    countAir: 9
+    rate: 0
+  - enemyGround: {fileID: 2266037048206090461, guid: f4c220b4d31dd474c9fcf4045c962a48,
+      type: 3}
+    enemyAir: {fileID: 4140827657010545531, guid: 2cdc1fd0dd6713347be8db35aab8992a,
+      type: 3}
+    countGround: 40
+    countAir: 12
+    rate: 0
+  - enemyGround: {fileID: 2266037048206090461, guid: f4c220b4d31dd474c9fcf4045c962a48,
+      type: 3}
+    enemyAir: {fileID: 4140827657010545531, guid: 2cdc1fd0dd6713347be8db35aab8992a,
+      type: 3}
+    countGround: 48
+    countAir: 12
+    rate: 0
+  - enemyGround: {fileID: 2266037048206090461, guid: f4c220b4d31dd474c9fcf4045c962a48,
+      type: 3}
+    enemyAir: {fileID: 4140827657010545531, guid: 2cdc1fd0dd6713347be8db35aab8992a,
+      type: 3}
+    countGround: 56
+    countAir: 15
+    rate: 0
+  - enemyGround: {fileID: 2266037048206090461, guid: f4c220b4d31dd474c9fcf4045c962a48,
+      type: 3}
+    enemyAir: {fileID: 4140827657010545531, guid: 2cdc1fd0dd6713347be8db35aab8992a,
+      type: 3}
+    countGround: 64
+    countAir: 18
     rate: 0
   _groundSpawnPoint: {fileID: 2116452166983867601}
   _airSpawnPoint: {fileID: 742493902}

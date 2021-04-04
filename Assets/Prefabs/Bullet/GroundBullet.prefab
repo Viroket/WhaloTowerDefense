@@ -93,5 +93,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
+  Grounddamage: 10
+  Airdamage: 20
   impactEffect: {fileID: 6768111043600409335, guid: 54e9b27ed91a5c44fa8cc46630f0b349,
     type: 3}
