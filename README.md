@@ -1,8 +1,8 @@
 # WhaloTowerDefense
 Tower Defense game
 
-Thank you for the opportunity i had a lot of fun working on this project.
-I missed some of the things (i felt bad this weekened).
+Thank you for the opportunity. I had a lot of fun working on this project.
+I missed some of the things (felt bad this weekend).
 
 1) Selling a object.
 2) Dynamic waves, and not static.
