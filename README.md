@@ -1,4 +1,4 @@
-# WhaloTowerDefense
+# TowerDefense
 Tower Defense game
 
 Thank you for the opportunity. I had a lot of fun working on this project.
